@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnchorSample</string>
+    <string name="layout_button_transition">layout_button_transition</string>
+</resources>
